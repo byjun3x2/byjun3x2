@@ -44,5 +44,7 @@ github.com/byjun3x2<br>
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 
+## Stats
+
 ![byjun3x2's GitHub stats](https://github-readme-stats.vercel.app/api?username=byjun3x2&show_icons=true&theme=dark)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=byjun32)](https://solved.ac/byjun32)
