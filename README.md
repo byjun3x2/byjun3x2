@@ -4,6 +4,8 @@
   <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=header&text=Park-SangJun%20&fontSize=60" alt="Header Image" style="width: 100%;">
 </div>
 
+![](https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif)
+
 ## Info
 
 박상준<br>
