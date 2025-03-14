@@ -1,7 +1,7 @@
 <div align="center">
  
 <div style="width: 100%; text-align: center;">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=header&text=PARK SANGJUN%20&fontSize=60" alt="Header Image" style="width: 100%;">
+ <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="50%" height="auto">
 </div>
 
 </div>
