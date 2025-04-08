@@ -45,6 +45,3 @@ github.com/byjun3x2<br>
 ## Commit Stats
 ![byjun3x2's GitHub stats](https://github-readme-stats.vercel.app/api?username=byjun3x2&show_icons=true&theme=dark)
 
-## Language Stats
-<img src="https://raw.githubusercontent.com/dkssud8150/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
-
